@@ -1,0 +1,36 @@
+ {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "legalName": "",
+      "description": "",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "",
+          "email": ""
+        }
+      ],
+      "address": {
+        "addressCountry": "",
+        "addressRegion": "",
+        "streetAddress": "",
+        "postalCode": ""
+      }
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "LocalBusiness",
+      "name": "",
+      "description": "",
+      "telephone": "",
+      "openingHours": [],
+      "address": {
+        "addressCountry": "",
+        "addressRegion": "",
+        "streetAddress": "",
+        "postalCode": ""
+      },
+      "image": "//via.placeholder.com/1"
+    }
